@@ -1,0 +1,6 @@
+anthropic>=0.40
+scikit-learn
+numpy
+matplotlib
+pytest
+# Colab only (LoRA classifier): transformers peft bitsandbytes accelerate datasets
